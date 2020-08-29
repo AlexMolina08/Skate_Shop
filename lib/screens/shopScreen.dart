@@ -20,9 +20,13 @@ class _shopScreenState extends State<shopScreen> {
                 padding: EdgeInsets.symmetric(horizontal: 30.0),
                 child: Row(mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  Icon(Icons.menu)
+                  Icon(Icons.menu , size: 30.0 , color: Colors.grey),
+                  Icon(Icons.shopping_cart , size: 30.0 , color: Colors.black)
                 ],)
             ),
+
+            SizedBox(height: 20.0,)
+
           ],
       ),),
     );
