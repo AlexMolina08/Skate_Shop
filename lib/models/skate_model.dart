@@ -18,23 +18,23 @@ class Skate {
       name: 'Mirror',
       category: 'Top',
       price: 85 ,
-      size: 'Medium',
+      size: 'Mediano',
       description: 'Mirror es el Skate perfecto para principiantes : Resistente , ligero y a un precio espectacular!'
     ),
     Skate(
-        imageUrl: 'assets/images/skate2',
+        imageUrl: 'assets/images/skate1',
         name: 'Budha',
         category: 'Edición Limitada',
         price: 130 ,
-        size: 'Medium',
+        size: 'Mediano',
         description: 'Siente la paz mientras patinas con esta edición limitada , serás el mejor patinando del Tíbet!'
     ),
     Skate(
-        imageUrl: 'assets/images/skate3',
+        imageUrl: 'assets/images/skate2',
         name: 'Panda',
         category: 'Nueva Temporada',
         price: 240 ,
-        size: 'Large',
+        size: 'Grande',
         description: 'Desata la furia con el Panda! La mejor tabla directa de Canada!'
     ),
 
